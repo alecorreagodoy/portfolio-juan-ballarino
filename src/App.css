@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo|Noto+Sans+KR|Nunito|Questrial|Rubik|Titillium+Web&display=swap');
+
+.App {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+
+
+}
+.main-header{
+  width: 100%;
+  height: 300px;
+  
+}
+
+.navbar{
+box-shadow: 2px 2px 5px rgb(250, 250, 250);
+}
+
+.titulo-page h1{
+  padding: 10px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 50px;
+  color: rgb(7, 7, 7);
+  align-items: center;
+  
+}
+
+
+.sub-title p{
+  font-family: 'SpartanMB-Thin.oft';
+  font-size: 30px;
+  padding: 5px;
+  text-align:center;
+  
+
+
+}
+.new-title{
+  font-family: 'SpartanMB-Thin.oft';
+  padding: 10px;
+}
+
+.Button button{
+  width: 900px;
+  color: rgb(7, 7, 7);
+  background-color: rgb(199, 195, 195);
+}
+.Button .btn {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+.Button .btn :hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.navigator {
+  font-family:"SpartanMB-Thin.oft";
+  font-size: 20px;
+  background-color: rgb(248, 248, 255);
+ 
+}
+.Work h3{
+  font-family:"SpartanMB-Regular.oft";
+}
+.Work h4{
+  font-family:"SpartanMB-Thin.oft";
+  font-size:20px ;
+}
+.Work p{
+  font-family:"SpartanMB-Thin.oft";
+  font-size:12px ;
+}
+.Work{
+  padding: 10px;
+  text-align: center;
+ 
+}
+ .Work{
+  background-color: rgb(255, 255, 255);
+ 
+}
+.Work .works{
+  padding: 10px;
+}
+
+.Work .work-title{
+  font-family:"SpartanMB-Regular.oft";
+}
+.perfil {
+  margin-left: 700px;
+
+  
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.Body{
+  display:flex;
+
+}
+.Body .container{
+  float: left;
+}
+.ficha {
+  background-color: rgb(230, 228, 228);
+  opacity: 0.90;
+
+
+  }
+ 
+.text-ficha {
+  font-family: "SpartanMB-Thin.oft";
+  color: rgb(8, 8, 8);
+  font-size: 15px;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: justify;
+}
+.text-ficha spam{
+  font-family: 'SpartanMB-Regular.oft';
+  color: rgb(0, 0, 0);
+}
+.title-img{
+  font-family: "SpartanMB-Thin.oft";
+  text-align: left;
+}
+
+@font-face{
+  font-family: "Scriptyca.ttf";
+  src: url("./fonts/Scriptyca.ttf");
+}
+@font-face{
+  font-family: "SpartanMB-Regular.oft";
+  src: url("./fonts/SpartanMB/SpartanMB-Regular.otf");
+}
+
+@font-face{
+  font-family: "SpartanMB-Thin.oft";
+  src: url("./fonts/SpartanMB/SpartanMB-Thin.otf");
+}
+
+@font-face{
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Arimo', sans-serif;
+  font-family: 'Questrial', sans-serif;
+
+
+src: url("https://fonts.google.com/?selection.family=Arimo|Noto+Sans+KR|Nunito|Questrial|Rubik|Titillium+Web");
+}
+
+/*Border aboutme*/
+.FancyBorder {
+  padding: 10px 10px;
+  border: 2px solid;
+}
+
+.FancyBorder-blue {
+  border-color: black;
+}
+
+.Dialog-title {
+  margin: 0;
+  font-family: "SpartanMB-Regular.oft";
+}
+
+.Dialog-message {
+
+  font-size: larger;
+  font-family: "SpartanMB-Thin.oft";
+}

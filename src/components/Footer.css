@@ -1,0 +1,32 @@
+
+
+
+.Card{
+    background-color: rgb(250, 250, 250);
+    border: node;
+}
+.Card .cardHeader{
+    background-color: rgb(250, 250, 250);
+    font-family:'Questrial', sans-serif; 
+}
+
+.Card .Title{
+    background-color: rgb(250, 250, 250);
+    font-family: 'Rubik', sans-serif;
+
+}
+
+
+@font-face{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Questrial', sans-serif;
+  
+  
+  src: url("https://fonts.google.com/?selection.family=Arimo|Noto+Sans+KR|Nunito|Questrial|Rubik|Titillium+Web");
+  }
+
+
