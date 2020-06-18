@@ -100,7 +100,7 @@ class Image extends Component{
 </div>
         <div className=" col-md-12 ficha ">
         <p className="text-ficha">
-          <spam>STARBUCKS </spam>de relleno en documentos electrónicos, 
+          <span>STARBUCKS </span>de relleno en documentos electrónicos, 
           quedando esencialmente igual 
           al original. Fue popularizado en los 60s con la.
           de relleno en documentos electrónicos, 

@@ -14,7 +14,8 @@
 }
 
 .navbar{
-box-shadow: 2px 2px 5px rgb(250, 250, 250);
+  background-color: rgb(248, 248, 248);
+
 }
 
 .titulo-page h1{
@@ -78,7 +79,8 @@ box-shadow: 2px 2px 5px rgb(250, 250, 250);
  
 }
  .Work{
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(248, 248, 248);
+  
  
 }
 .Work .works{
@@ -109,7 +111,9 @@ box-shadow: 2px 2px 5px rgb(250, 250, 250);
   float: left;
 }
 .ficha {
-  background-color: rgb(230, 228, 228);
+  
+  background-image: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);
+ background-blend-mode: screen;
   opacity: 0.90;
 
 

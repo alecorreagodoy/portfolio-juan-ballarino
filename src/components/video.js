@@ -30,6 +30,7 @@ render(){
             width: '400px',
             height: '400px',
             overflow: 'hidden',
+            margin: 'auto'
           }}>
             <VideoCover
               videoOptions={videoOptions}

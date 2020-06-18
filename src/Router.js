@@ -7,7 +7,7 @@ import { BrowserRouter, HashRouter, Route, Switch } from 'react-router-dom';
 
  const Router = ()=>(
 
-    <HashRouter>
+    <BrowserRouter>
         <Switch>
             <Route exact path='/' component={Body}/>
             <Route exact path='/aboutme' component={Aboutme}/>
@@ -16,7 +16,7 @@ import { BrowserRouter, HashRouter, Route, Switch } from 'react-router-dom';
           
 
         </Switch>
-    </HashRouter>
+    </BrowserRouter>
 )
 
 export default Router;
